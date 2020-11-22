@@ -18,7 +18,7 @@ body {
      width: 100%;
      height: 350px;
      text-align: center;
-     color: solid black;
+     color solid black;
      top: 50%;
      left: 50%;
      -ms-transform: translate(-50%, -50%);
@@ -29,13 +29,13 @@ body {
      display: block;
      position:absolute;
  }
- table, th, td {
+ table, th, td 
   border: 1px solid black;
 }
 
  
 </style>
-</head> 
+
 
 <body> 
   <!-- As a heading -->
@@ -63,4 +63,3 @@ body {
     Website developed by Muhammad Mustafa Ispahani , Salman Azhar, Nazzal Naseer, Odunayo Onifade, Noman Tanveer, Sheetal Gour. Copyright &copy; 2020 </p>	
     </div>
 </body>
-</html>
